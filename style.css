@@ -60,10 +60,14 @@ h2{
 .question-block label{
     font-size: 20px;
 }
+.question-block div{
+    display: inline;
+}
 
 .question-block input[type="radio"]{
     transform: scale(1.8);
     margin: 10px;
+    display: inline;
 }
 .precisionReponse{
     text-align: left;
